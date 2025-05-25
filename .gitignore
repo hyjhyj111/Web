@@ -1,0 +1,23 @@
+# Build output
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+*.o
+*.out
+*.log
+
+# CLion & CMake
+.idea/
+build/
+*.iml
+*.ninja
+
+# SQLite files
+*.db
+*.db-wal
+*.db-shm
+
+# System
+.DS_Store
